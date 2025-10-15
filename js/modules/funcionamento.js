@@ -15,6 +15,4 @@ let horarioAberto =
 
 if (semanaAberto && horarioAberto) {
   funcionamento.classList.add("aberto");
-}else{
-   funcionamento.classList.add("fechado");
 }

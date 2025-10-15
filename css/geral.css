@@ -315,7 +315,7 @@ body {
   border: 1px solid #000;
 }
 
-[data-semana].fechado::after {
+[data-semana]::after {
   display: inline-block;
   content: "";
   width: 8px;
