@@ -35,4 +35,4 @@ O site permite explorar e testar conceitos de JavaScript como:
 ## 📁 Como usar
 
 1.Disponivel para uso ja hospedado pelo github pelo link:
-git clone https://github.com/seu-usuario/animais-fantasticos.git](https://gabriel-apg.github.io/gabriel-apg.github.io-AnimaisFantasticos)
+https://gabriel-apg.github.io/gabriel-apg.github.io-AnimaisFantasticos
